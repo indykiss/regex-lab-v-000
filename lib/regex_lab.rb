@@ -13,7 +13,6 @@ end
 
 def words_five_letters_long(text)
   text.scan(/\b[a-zA-Z]{5}\b/)
-
 end
 
 
